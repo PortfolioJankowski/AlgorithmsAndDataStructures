@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsAndDataStructures", "AlgorithmsAndDataStructures\AlgorithmsAndDataStructures.csproj", "{AEEE23D4-B6AE-49CF-B65D-74CB29BBD651}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorithmsAndDataStructures", "AlgorithmsAndDataStructures\AlgorithmsAndDataStructures.csproj", "{AEEE23D4-B6AE-49CF-B65D-74CB29BBD651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLearning", "TestLearning\TestLearning.csproj", "{C799EEFE-C8EA-40C1-A658-74A4C8A1CA30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLearning.Tests", "ClassLibrary1\TestLearning.Tests.csproj", "{D0A577BF-6FE7-438E-9FCF-1232A88F0000}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{AEEE23D4-B6AE-49CF-B65D-74CB29BBD651}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEEE23D4-B6AE-49CF-B65D-74CB29BBD651}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEEE23D4-B6AE-49CF-B65D-74CB29BBD651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C799EEFE-C8EA-40C1-A658-74A4C8A1CA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C799EEFE-C8EA-40C1-A658-74A4C8A1CA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C799EEFE-C8EA-40C1-A658-74A4C8A1CA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C799EEFE-C8EA-40C1-A658-74A4C8A1CA30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A577BF-6FE7-438E-9FCF-1232A88F0000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A577BF-6FE7-438E-9FCF-1232A88F0000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A577BF-6FE7-438E-9FCF-1232A88F0000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A577BF-6FE7-438E-9FCF-1232A88F0000}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
